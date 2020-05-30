@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ckan_c25bd314_c119_445a_aeca_3cf43fbbfdbb.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.88770809,
+          -37.64918192
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "area": "Buninyong",
+        "id": "00271127",
+        "construct": null,
+        "location": "Buninyong Skate Park / Half Basketball Court\r\nInglis St\r\nBuninyong",
+        "maintain": "City of Ballarat",
+        "size": "Simple",
+        "site": "Buninyong Recreation Park",
+        "ward": "South"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ckan_c25bd314_c119_445a_aeca_3cf43fbbfdbb.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.815789,
+          -37.58380505
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "area": "Delacombe",
+        "id": "00036755",
+        "construct": null,
+        "location": "Skate Structure\r\nDoug Dean Reserve\r\nGreenhalghs Road\r\nDelacombe",
+        "maintain": "City of Ballarat",
+        "size": "Simple",
+        "site": "Doug Dean Reserve",
+        "ward": "South"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ckan_c25bd314_c119_445a_aeca_3cf43fbbfdbb.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86773745,
+          -37.56658674
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "area": "Bakery Hill",
+        "id": "00036881",
+        "construct": null,
+        "location": "Ballarat City Skate Park\r\n10B Barkly St\r\nBallarat East",
+        "maintain": "City of Ballarat",
+        "size": "Complex",
+        "site": "Len T Frazer Reserve",
+        "ward": "Central"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ckan_c25bd314_c119_445a_aeca_3cf43fbbfdbb.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82123798,
+          -37.55712399
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "area": "Newington",
+        "id": "00291752",
+        "construct": null,
+        "location": "West of inclusive play space and stand alone public toilets",
+        "maintain": "City of Ballarat",
+        "size": "Simple",
+        "site": "Victoria Park",
+        "ward": "Central"
+      }
+    }
+  ],
+  "totalFeatures": 4,
+  "numberMatched": 4,
+  "numberReturned": 4,
+  "timeStamp": "2020-05-30T11:03:34.529Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
