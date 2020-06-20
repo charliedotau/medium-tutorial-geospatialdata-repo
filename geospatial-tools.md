@@ -1,5 +1,5 @@
 
-### Geospatial SQL
+## Geospatial SQL
 
 
 
@@ -17,4 +17,9 @@
 * 
 
 
-### 
+## Command line utilities
+* tippecanoe
+* ogr2ogr
+
+## Map Design 
+* ColorBrewer - https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
