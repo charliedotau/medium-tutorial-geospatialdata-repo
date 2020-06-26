@@ -14,7 +14,7 @@
 
 * Carto.com
 * Mangomaps 
-* 
+* Koordinates
 
 
 ## Command line utilities
@@ -23,3 +23,7 @@
 
 ## Map Design 
 * ColorBrewer - https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+
+## Spatial editor
+* Nebula.gl
+* 
